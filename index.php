@@ -24,3 +24,5 @@ function index()
 {
 
 }
+
+__FUNCTION__;
